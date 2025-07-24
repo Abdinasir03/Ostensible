@@ -39,11 +39,10 @@ Ostensible is a story-driven 2D Viking game where players navigate the harsh Nor
 
 ## 🚀 Play Now
 
-[Download for Windows](link) | [Play in Browser](link) | [View Trailer](link)
-
 ## 📸 Screenshots
 
-[Add gameplay screenshots here]
+
+<img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/cc889b46-1d5e-4aee-ba5f-389e7b5a3f7b" />
 
 ## 🏗️ Installation
 
